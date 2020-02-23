@@ -1,0 +1,86 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.Header div {
+  align-items: flex-start;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.detail_name {
+  color: #2b2b2b;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.detail_date {
+  color: #2b2b2b77;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+.divider {
+  background-color: #eeeeee;
+  width: 100%;
+  height: 1px;
+  margin-bottom: 10px;
+}
+
+.comments {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 15px;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-start;
+}
+
+.comments div {
+  background-color: #eee;
+  border-radius: 25px;
+  padding: 15px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.comments div p {
+  margin: 0;
+  color: #2b2b2b;
+  font-size: 14px;
+}
+
+.comments img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.Post {
+  background-color: white;
+  width: 50%;
+  color: #3e3e3e;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: flex-start;
+} 
+
+.Post p {
+  margin: 20px;
+}

@@ -1,0 +1,26 @@
+header {
+  background-color: #4267b2;
+  color: #fff;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: static;
+}
+
+img {
+  margin-left: 40px;
+}
+
+span {
+  color: #eee;
+  font-weight: bold;
+  margin-right: 40px;
+  display: flex;
+  align-items: center;
+}
+
+span > i {
+  margin-left: 10px;
+}

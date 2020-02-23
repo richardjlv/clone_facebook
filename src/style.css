@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #eee;
+  font-family: Arial, Helvetica, sans-serif;
+};
+
+span {
+  color: #2b2b2b;
+}
