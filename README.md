@@ -1,4 +1,4 @@
-## Clone do facebook
+## Clone facebook
 
 ### Sobre a aplicação
 
