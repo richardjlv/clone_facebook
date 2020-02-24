@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './style.css';
 
 import PostItem from '../PostItem/';
 
@@ -23,6 +22,7 @@ export default class PostList extends Component {
             },
             content: "E é utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros."
           },
+
         ],
       },
       {
